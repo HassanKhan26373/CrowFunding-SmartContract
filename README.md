@@ -1,5 +1,3 @@
-Here's a polished and professional version of your **README.md** content for the **Crowdfunding Smart Contract**, formatted for direct copy-paste into your project:
-
 ---
 
 # Crowdfunding Smart Contract
@@ -158,6 +156,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 // SPDX-License-Identifier: MIT
 ```
 
----
-
-Let me know if you also want the Solidity code formatted for the same README or exported as a `.md` or `.pdf` file.
